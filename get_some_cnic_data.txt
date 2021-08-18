@@ -1,0 +1,52 @@
+Name:anas
+Father Name:anas
+CNIC:1101284939005    
+Date of birth:22/06/1998
+Mobile Number:0222611395
+current address:kjdjhaskhdkash
+cast:Shah
+
+----
+__________________________________________________
+Name:azmatu
+Father Name:jameel
+CNIC:1101236320603    
+Date of birth:22/4/98
+Mobile Number:03216357265
+current address:kjsaksksdsdbkdbfkak
+cast:abidi
+
+----
+__________________________________________________
+Name:anas
+Father Name:iftikhar
+CNIC:1101202859203    
+Date of birth:22/06/1998
+Mobile Number:03313284486
+current address:271a
+cast:siddiqui
+
+----
+1101147651204.txt
+__________________________________________________
+Name:hamza
+Father Name:bilal
+CNIC:1101191609509       
+Date of birth:22/06/1998
+Mobile Number:3452345
+current address:gdfgsfdg
+cast:sdfgsh
+
+----
+__________________________________________________
+Name:TEST
+Father Name:TEST
+CNIC:TEST       
+Date of birth:TEST
+Mobile Number:TEST
+current address:TEST
+cast:TEST
+
+----
+TEST
+__________________________________________________
